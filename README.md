@@ -21,12 +21,12 @@ We focused on the US reviews for video games.
 ### Total number of 5 star reviews
 ~Vine reviews
 
-   ![5star_vine](5star_vine.png)
+   ![five_Vine](five_Vine.png)
               
               
 ~Non-Vine reviews
 
-   ![5star_nonvine](5star_nonvine.png)
+   ![fivestar](fivestar.png)
               
               
 ### Percentage of 5 star reviews
