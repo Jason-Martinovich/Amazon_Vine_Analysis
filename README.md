@@ -9,8 +9,7 @@ We focused on the US reviews for video games.
 ### Total number of reviews
 
 ~Vine reviews
-
-   ![vine review](vine review.png)
+![vine review](vine review.png)
               
               
 ~Non-Vine reviews
