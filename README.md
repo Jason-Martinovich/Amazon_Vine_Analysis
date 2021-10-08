@@ -9,34 +9,35 @@ We focused on the US reviews for video games.
 ### Total number of reviews
 
 ~Vine reviews
-![vine review](vine review.png)
+
+![vine_review](vine_review.png)
               
               
 ~Non-Vine reviews
 
-   ![unpaid vine](unpaid vine.png)
+   ![unpaid_vine](unpaid_vine.png)
               
               
 ### Total number of 5 star reviews
 ~Vine reviews
 
-   ![5star vine](5star vine.png)
+   ![5star_vine](5star_vine.png)
               
               
 ~Non-Vine reviews
 
-   ![5star non vine](5star non vine.png)
+   ![5star_nonvine](5star_nonvine.png)
               
               
 ### Percentage of 5 star reviews
 ~Vine reviews
 
-   ![percent vine](percent vine.png)
+   ![percent_vine](percent_vine.png)
               
               
 ~Non-Vine reviews
 
-   ![percent non vine](percent non vine.png)
+   ![percent_nonvine](percent_nonvine.png)
               
               
 ## Summary
